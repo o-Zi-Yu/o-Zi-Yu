@@ -15,7 +15,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://gitlab.com/wireshark/wireshark/-/blob/master/resources/icons/wsicon1024.png" title="WireShark" **alt="WireShark" width="40" height="40"/>
+  <img src="https://gitlab.com/wireshark/wireshark/-/blob/master/resources/icons/wireshark.ico" title="WireShark" **alt="WireShark" width="40" height="40"/>
 </div>
 <!--
 **o-Zi-Yu/o-Zi-Yu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
