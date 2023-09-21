@@ -7,6 +7,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="C" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" **alt="C++" width="40" height="40"/>
   <img src="https://systemc.org/images/systemc.png" title="SystemC" **alt="SystemC" width="120" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/e/ef/SystemVerilog_logo.png" title="SystemVerilog" **alt="SystemVerilog" width="120" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" title="CMake" **alt="CMake" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" **alt="Latex" width="40" height="40"/>
