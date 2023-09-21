@@ -15,7 +15,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://www.kicad.org/img/kicad_logo_small.png" title="KiCAD" **alt="KiCAD" width="120" height="40"/>
+  <img src="https://www.kicad.org/img/kicad_logo_small.png" title="KiCAD" **alt="KiCAD" width="100" height="40"/>
   
 </div>
 <!--
